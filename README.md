@@ -13,5 +13,3 @@ python3 bigip-decode.py -c 2684427692.51205.0000
 F5 BigIP cookie:  2684427692.51205.0000
 Converted: 172.29.1.160:1480
 ```
-
-Thanks to Dimitry Snezhkov (https://github.com/dsnezhkov) for the suggestions and improvements to make the code more efficient.
