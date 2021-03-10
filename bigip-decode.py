@@ -6,7 +6,6 @@ from sys import exit
 # Usage: bigip-decode.py -c 0000000000.00000.000
 # Where -c is the F5 BigIP cookie
 # October 2020, Ken Mininger, kmininger@us.ibm.com
-# Thanks to Dimitry Snezhkov for the suggestions and improvements https://github.com/dsnezhkov
 
 def get_port(c_port) -> str:
     # convert the second part of the cookie to hex
