@@ -11,5 +11,5 @@ Where -c is your F5 BigIP cookie.
 ```
 python3 bigip-decode.py -c 2684427692.51205.0000
 F5 BigIP cookie:  2684427692.51205.0000
-Converted: 172.29.1.160:1480
+Decoded cookie (IP address:Port): 172.29.1.160:1480
 ```
